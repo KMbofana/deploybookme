@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "627a4ce968956bb4b3658597"
+  },
+  "categoryName": "Hair Salon"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b3658598"
+  },
+  "categoryName": "Barbershop "
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b3658599"
+  },
+  "categoryName": "Nail Salon "
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b365859a"
+  },
+  "categoryName": "Skin Care "
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b365859b"
+  },
+  "categoryName": "Eyebrows "
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b365859c"
+  },
+  "categoryName": "Lashes "
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b365859d"
+  },
+  "categoryName": "Massage "
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b365859e"
+  },
+  "categoryName": "Makeup Artist "
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b365859f"
+  },
+  "categoryName": "Day Spa "
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585a0"
+  },
+  "categoryName": "Braids"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585a1"
+  },
+  "categoryName": "Tattoo Shops"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585a2"
+  },
+  "categoryName": "Personal Trainer"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585a3"
+  },
+  "categoryName": "Chiropractic"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585a4"
+  },
+  "categoryName": "Wedding Makeup "
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585a5"
+  },
+  "categoryName": "Artist"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585a6"
+  },
+  "categoryName": "Aesthetic Medicine "
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585a7"
+  },
+  "categoryName": "Hair Removal "
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585a8"
+  },
+  "categoryName": "Home Improvement"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585a9"
+  },
+  "categoryName": "Piercing"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585aa"
+  },
+  "categoryName": "Physical Therapy"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585ab"
+  },
+  "categoryName": "Holistic Medicine"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585ac"
+  },
+  "categoryName": "Pet Services"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585ad"
+  },
+  "categoryName": "Teeth Whitening"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585ae"
+  },
+  "categoryName": "Dietician"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585af"
+  },
+  "categoryName": "Podiatry"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585b0"
+  },
+  "categoryName": "Psychotherapy"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585b1"
+  },
+  "categoryName": "Health Wellness"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585b2"
+  },
+  "categoryName": "Professional Services"
+},{
+  "_id": {
+    "$oid": "627a4ce968956bb4b36585b3"
+  },
+  "categoryName": "Other"
+}]

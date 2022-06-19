@@ -1,0 +1,159 @@
+.registerInput {
+    margin: 5px 0px 5px 0px;
+    width: 10px;
+}
+
+.registerInputError {
+    color: red;
+}
+
+.reg-pos {
+    margin-top: 10vw
+}
+
+.filterLogo {
+    margin-top: 120px;
+    width: 200px;
+    height: 200px;
+}
+
+.inputs_container {
+    display: flex;
+    flex-direction: row;
+}
+
+.filterInputsLeft {
+    border-color: #012970;
+    width: 33.3%;
+    height: 50px;
+}
+
+.filterInputsCenter {
+
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    border-left: 0;
+    border-right: 0;
+    border-color: #012970;
+    width: 33.3%;
+    height: 50px;
+}
+
+.filterInputsRight {
+    border-color: #012970;
+    width: 33.3%;
+    height: 50px;
+}
+
+.modalButtons {
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: x-small
+}
+
+.modalSearch {
+    background-color: #33B5BD;
+    width: 100%;
+}
+
+.modalSearchLink {
+    width: 100%;
+}
+
+.locationButton {
+    background-color: #33B5BD;
+    width: 150px;
+}
+
+.filteredSearch {
+    display: flex;
+    flex-direction: column;
+}
+
+.rowFilterSearch {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    height: 116px;
+    padding: 9px;
+}
+
+.navItems {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.navText {
+    color: #012970;
+    font-size: 25px;
+}
+
+/* specialist Details */
+.serviceSpace {
+    width: 250px;
+    height: 200px;
+}
+
+.serviceImage {
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.serviceTextSlide {
+    font-size: small;
+}
+
+.bookButton {
+    background-color: #33B5BD;
+    border-style: none;
+    height: 25px;
+    font-size: 10px;
+}
+
+.reportButton {
+    height: 25px;
+    font-size: 10px;
+}
+
+.specialistLink {
+    font-style: italic;
+    text-decoration: none;
+    color: #444444;
+}
+
+.timePicker {
+    margin-top: 100px;
+    width: 150px;
+    height: 50px;
+}
+
+.calendar::-webkit-scrollbar {
+    display: none;
+}
+
+.navItems {
+    font-size: 5px;
+}
+
+.MuiTabs-indicator {
+    flex-wrap: wrap;
+}
+
+.MuiButtonBase-root .MuiTab-root .MuiTab-textColorPrimary .MuiTab-wrapped .css-zx9imm-MuiButtonBase-root-MuiTab-root {
+    flex-wrap: wrap;
+}
+
+.orderSpecs {
+    font-size: 10px;
+}
+
+@media (max-width: 991px) {
+    .reg-pos {
+        margin-top: 43vw !important
+    }
+}
