@@ -1,4 +1,4 @@
-const ApiDomain = "http://localhost:5000/"
+const ApiDomain = "https://bookmeback.herokuapp.com/"
 const UploadsDomain = `${ApiDomain}media/get_image?file=`
 const UploadDomainFile = `${ApiDomain}media`
 let token = ""
