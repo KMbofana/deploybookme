@@ -47,8 +47,7 @@ function Register() {
           email: email,
           password: password,
         }),
-        mode:"no-cors",
-        redirect: 'follow'
+        // redirect: 'follow'
       };
 
       // console.log(registrationDetails)

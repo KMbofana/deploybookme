@@ -22,8 +22,8 @@ function Home() {
         'Content-type': 'application/json',
         // 'Authorization': `Bearer ${token ?token : "none" }`, // notice the Bearer before your token
       },
-      mode:"no-cors",
-      redirect: 'follow'
+      // mode:"no-cors"
+      // redirect: 'follow'
     };
 
     await fetch(`${basecatURL}`, requestOptions)
@@ -49,8 +49,8 @@ function Home() {
         'Content-type': 'application/json',
         'Authorization': `Bearer ${token ? token : "none"}`, // notice the Bearer before your token
       },
-      mode:"no-cors",
-      redirect: 'follow'
+      // mode:"no-cors"
+      // redirect: 'follow'
     };
 
     await fetch(`${baseURL}`, requestOptions)

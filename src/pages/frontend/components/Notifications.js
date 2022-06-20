@@ -43,8 +43,7 @@ function Notifications() {
             body: JSON.stringify({
               id: '',
             }),
-            mode:"no-cors",
-            redirect: 'follow'
+            // redirect: 'follow'
           };
 
           await fetch(`${ApiDomain}api/notifications`,requestOptions)

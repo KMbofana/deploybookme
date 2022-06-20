@@ -38,8 +38,8 @@ function Specialistmore() {
                 'Content-type': 'application/json',
                 // 'Authorization': `Bearer ${token ?token : "none" }`, // notice the Bearer before your token
             },
-            mode:"no-cors",
-            redirect: 'follow'
+            // mode:"no-cors"
+            // redirect: 'follow'
         };
         let newoffset = 0
         if (offset === 0) {
@@ -81,8 +81,8 @@ function Specialistmore() {
                 'Content-type': 'application/json',
                 // 'Authorization': `Bearer ${token ?token : "none" }`, // notice the Bearer before your token
             },
-            mode:"no-cors",
-            redirect: 'follow'
+            // mode:"no-cors"
+            // redirect: 'follow'
         };
 
 
@@ -136,8 +136,8 @@ function Specialistmore() {
                 'Content-type': 'application/json',
                 'Authorization': `Bearer ${token ? token : "none"}`, // notice the Bearer before your token
             },
-            mode:"no-cors",
-            redirect: 'follow'
+            // mode:"no-cors"
+            // redirect: 'follow'
         };
 
         await fetch(`${baseURL}`, requestOptions)

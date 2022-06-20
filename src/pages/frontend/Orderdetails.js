@@ -37,9 +37,7 @@ function Orderdetails() {
             body:JSON.stringify({
                 name:'customerName',
                 orderstatus:'reserved'
-            }),
-            mode:"no-cors",
-            redirect: 'follow'
+            })
         }
 
         fetch(`${ApiDomain}api/reserve`,requestOptions)
@@ -72,8 +70,7 @@ function Orderdetails() {
                 name:'clientName',
                 orderStatus:'revoked'
             }),
-            mode:"no-cors",
-            redirect: 'follow'
+            redirect:'follow'
         }
 
         fetch(`${ApiDomain}api/revoke`, requestOptions)
