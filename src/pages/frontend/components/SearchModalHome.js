@@ -36,8 +36,8 @@ function SearchModalHome(props) {
                 'Content-type': 'application/json',
                 // 'Authorization': `Bearer ${token ?token : "none" }`, // notice the Bearer before your token
             },
-            // mode:"no-cors"
-            // redirect: 'follow'
+            mode:"no-cors",
+            redirect: 'follow'
         };
 
         await fetch(`${basecatURL}${searchText}`, requestOptions)
@@ -68,7 +68,7 @@ function SearchModalHome(props) {
         searchText = searchText.replace(/ /g, "+")
         var requestOptions = {
             method: 'GET',
-            //   headers: myHeaders,
+            mode:"no-cors",
             redirect: 'follow'
         };
         let results

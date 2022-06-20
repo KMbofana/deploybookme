@@ -39,6 +39,9 @@ function VerifyAccount() {
           email: email,
           // code: code
         })
+        ,
+      mode:"no-cors",
+      redirect: 'follow'
       }
 
       try {
